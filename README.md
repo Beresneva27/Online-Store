@@ -1,2 +1,2 @@
 # Online-Store
-The project is devoted to the development of an online store with the implementation of backend and frontend - full-fledged Rest API
+The project is devoted to the development of an online store with the implementation of backend and frontend - full-fledged Rest API. We used Node.js in conjunction with Express, PostgreSQL as a database management system and Sequelize as an ORM for relational databases. User authorization by JWT token was implemented. The client part is written with React JS, the graphical part is made with Bootstrap, requests to the server are made with axios. MobX is used as a state management 
